@@ -1,2 +1,2 @@
 # sb-ecom
-A eCommerce Backend Java Project  -  using Spring Boot, Spring Framework, Spring Security, Database Integration and Management with MySQL.
+A eCommerce Backend Java Project  -  Spring Boot, Spring Framework, Spring Security, REST API, Spring Data JPA, JWT, Deploy on AWS
